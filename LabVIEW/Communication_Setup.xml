@@ -1,0 +1,40 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>14.0.1f3</Version>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>8</NumElts>
+<Boolean>
+<Name>Arduino &lt;&gt; STM</Name>
+<Val>1</Val>
+</Boolean>
+<U16>
+<Name>AI 2</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>AI 1</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>AFR</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>EGT</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Frequency</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>EGT 2</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>AFR 2</Name>
+<Val>0</Val>
+</U16>
+</Cluster>
+</LVData>
